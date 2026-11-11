@@ -13,18 +13,64 @@
 
 ## ✨ Особенности / Key Features
 
-### 📷 Режимы съёмки / Shooting Modes
-- **Выбор объективов:** штатный 24мм, Industar 35мм, Helios 50мм
-- **Разрешение 0.3 МП** для аутентичного эффекта старых камер
-- Сетка для композиции кадра и добавление даты/логотипа
+**📷 Режимы съёмки:**
+- Выбор из трёх объективов: штатный 24мм, Industar 35мм, Helios 50мм
+- Аутентичное разрешение 0.3 МП для эффекта старых камер
+- Сетка для композиции кадра (правило третей)
+- Возможность добавления даты и логотипа на фото
 
-### 🎨 Фильтры и эффекты / Filters & Effects
-- **12+ тематических фильтров** по десятилетиям (1960-2000)
-- Специальные режимы: LOMO, Ч/Б, Сепия, NES
-- Эффект плёнки формата 2:3 и случайный фильтр (Random)
+**🎨 Фильтры и эффекты:**
+- 12+ тематических фильтров по десятилетиям (1960-2000 годы)
+- Специальные режимы: LOMO, Ч/Б, Сепия, NES, Random
+- Эффект плёночного формата 2:3
+- Реалистичная эмуляция винтажных камер
 
-### 🔧 Профессиональный редактор / Professional Editor
-Точная настройка: Яркость, Насыщенность, Контраст, Виньетка, Зернистость плёнки, Утечка света (light leaks).
+**🔧 Профессиональный редактор:**
+- Тонкая настройка всех параметров:
+  - Яркость и насыщенность
+  - Контраст и виньетка
+  - Зернистость плёнки
+  - Утечка света (light leaks) с настройкой тона
+- Сохранение отредактированных фотографий
+
+**🌐 Интерфейс:**
+- Двуязычный интерфейс (Русский / English)
+- Интуитивное управление
+- Тёмная тема в ретро-стиле
+
+---
+
+## 🇬🇧 First Stable Release of RetroCamV8!
+
+We're excited to present the first version of our application for creating atmospheric retro photos!
+
+### ✨ What's Included:
+
+**📷 Shooting Modes:**
+- Choice of three lenses: Standard 24mm, Industar 35mm, Helios 50mm
+- Authentic 0.3 MP resolution for vintage camera effect
+- Grid for frame composition (rule of thirds)
+- Option to add date and logo to photos
+
+**🎨 Filters and Effects:**
+- 12+ thematic filters by decade (1960-2000)
+- Special modes: LOMO, B&W, Sepia, NES, Random
+- 2:3 film format effect
+- Realistic vintage camera emulation
+
+**🔧 Professional Editor:**
+- Fine-tuning of all parameters:
+  - Brightness and saturation
+  - Contrast and vignette
+  - Film grain
+  - Light leaks with tone adjustment
+- Save edited photos
+
+**🌐 Interface:**
+- Bilingual interface (Russian / English)
+- Intuitive controls
+- Dark retro-styled theme
+
 
 ---
 
@@ -36,6 +82,8 @@
 <td><img src="screen1.jpg" width="200" alt="Экран 1"/></td>
 <td><img src="screen2.jpg" width="200" alt="Экран 2"/></td>
 <td><img src="screen3.jpg" width="200" alt="Экран 3"/></td>
+<td><img src="screen4.jpg" width="200" alt="Экран 1"/></td>
+<td><img src="screen5.jpg" width="200" alt="Экран 2"/></td>
 </tr>
 </table>
 </div>
