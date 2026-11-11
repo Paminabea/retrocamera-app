@@ -1,4 +1,9 @@
-# 📸 RetroCamV8
+## 🎞️ История создания / The Story Behind
+
+> *«I've always loved film photography — its unique charm, the grain, light leaks, and that special magic of waiting for a shot. But carrying a film camera every day isn't always convenient. That's how the idea was born: to create a mobile app that brings the same emotions and retro aesthetics right to your pocket. And so, RetroCamV8 was born.»*
+
+**RetroCamV8** is an Android mobile app that turns your smartphone into a vintage film camera. No complicated editing — just the atmosphere of old snapshots and lo-fi aesthetics.
+
 
 > *«Я всегда любил плёночную фотографию — её неповторимый шарм, зерно, утечки света и ту самую магию ожидания снимка. Но носить с собой плёночную камеру каждый день не всегда удобно. Так родилась идея: создать приложение для телефона, которое подарит те же эмоции и эстетику ретро прямо в кармане. Так появился RetroCamV8.»*
 
