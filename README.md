@@ -1,15 +1,8 @@
 # 📸 RetroCamV8
 
-## 🎞️ История создания / The Story Behind
+> *«Я всегда любил плёночную фотографию — её неповторимый шарм, зерно, утечки света и ту самую магию ожидания снимка. Но носить с собой плёночную камеру каждый день не всегда удобно. Так родилась идея: создать приложение для телефона, которое подарит те же эмоции и эстетику ретро прямо в кармане. Так появился RetroCamV8.»*
 
-🇷🇺 Всё началось с моей любви к плёночной фотографии. Я обожаю этот процесс: загрузить плёнку в старый «Зенит», дождаться проявки, увидеть, как на бумаге проступают кадры с неповторимой зернистостью и тёплыми цветами. Но в цифровую эпоху носить с собой плёночную камеру не всегда удобно, а фильтры в обычных приложениях выглядят слишком «пластиково».
-
-Тогда мне пришла в голову идея: **создать приложение, которое действительно передаёт дух плёнки** — с настоящими объективами (Индустар, Гелиос), характерным зерном, утечками света и даже разрешением старых камер 0.3 МП. Я сделал RetroCamV8 в первую очередь для себя, а потом понял, что таким хочется поделиться.
-
-🇬🇧 It all started with my love for film photography. I adore the whole process: loading film into an old Zenit, waiting for it to be developed, watching images with unique grain and warm tones slowly appear on paper. But in the digital age, carrying a film camera around isn't always practical, and filters in regular apps look way too "plastic."
-
-That's when I got the idea: **to build an app that truly captures the spirit of film** — with real lenses (Industar, Helios), characteristic grain, light leaks, and even the 0.3 MP resolution of old cameras. I built RetroCamV8 for myself first, and then realized I wanted to share it with others.
-<div align="center">
+**RetroCamV8** — это мобильное приложение для Android, превращающее ваш смартфон в винтажную плёночную камеру. Никакой сложной обработки — только атмосфера старых снимков и лоу-фай эстетики.
 
 [![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/Paminabea/retrocamera-app/releases/latest)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)](https://github.com/Paminabea/retrocamera-app/releases)
