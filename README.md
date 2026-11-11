@@ -45,7 +45,7 @@
 ## 📥 Скачать / Download
 
 ### APK (Android)
-📥 **[Скачать последнюю версию (v1.0.0)](https://github.com/Paminabea/retrocam-app/releases/latest)**
+📥 **[Скачать последнюю версию (v1.0.0)](https://github.com/Paminabea/retrocamera-app/releases/download/v1.0.0/RetroCamera.apk)**
 
 ### Магазины приложений / App Stores
 - [RuStore]() *(вставь ссылку)*
