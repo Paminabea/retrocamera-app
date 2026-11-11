@@ -33,9 +33,9 @@
 <div align="center">
 <table>
 <tr>
-<td><img src="screen1.png" width="200" alt="Экран 1"/></td>
-<td><img src="screen2.png" width="200" alt="Экран 2"/></td>
-<td><img src="screen3.png" width="200" alt="Экран 3"/></td>
+<td><img src="screen1.jpg" width="200" alt="Экран 1"/></td>
+<td><img src="screen2.jpg" width="200" alt="Экран 2"/></td>
+<td><img src="screen3.jpg" width="200" alt="Экран 3"/></td>
 </tr>
 </table>
 </div>
