@@ -97,7 +97,7 @@ We're excited to present the first version of our application for creating atmos
 📥 **[Скачать последнюю версию (v1.0.0)](https://github.com/Paminabea/retrocamera-app/releases/download/v1.0.0/RetroCamera.apk)**
 
 ### Магазины приложений / App Stores
-- [RuStore]() 
+- [RuStore](https://www.rustore.ru/catalog/app/com.retrocam.v8) 
 - [Huawei AppGallery]() 
 
 ---
