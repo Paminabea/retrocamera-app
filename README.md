@@ -90,7 +90,6 @@ We're excited to present the first version of our application for creating atmos
 </tr>
 </table>
 </div>
-
 ---
 
 ## 📥 Скачать / Download
