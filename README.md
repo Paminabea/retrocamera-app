@@ -80,11 +80,11 @@ We're excited to present the first version of our application for creating atmos
 <div align="center">
 <table>
 <tr>
-<td><img src="screen1.jpg" width="200" alt="Экран 1"/></td>
-<td><img src="screen2.jpg" width="200" alt="Экран 2"/></td>
-<td><img src="screen3.jpg" width="200" alt="Экран 3"/></td>
-<td><img src="screen4.jpg" width="200" alt="Экран 1"/></td>
-<td><img src="screen5.jpg" width="200" alt="Экран 2"/></td>
+<td><img src="screenshots/screen1.jpg" width="200" alt="Экран 1"/></td>
+<td><img src="screenshots/sscreen2.jpg" width="200" alt="Экран 2"/></td>
+<td><img src="screenshots/sscreen3.jpg" width="200" alt="Экран 3"/></td>
+<td><img src="screenshots/sscreen4.jpg" width="200" alt="Экран 1"/></td>
+<td><img src="screenshots/screen5.jpg" width="200" alt="Экран 2"/></td>
 </tr>
 </table>
 </div>
