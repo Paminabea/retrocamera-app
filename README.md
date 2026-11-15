@@ -81,10 +81,12 @@ We're excited to present the first version of our application for creating atmos
 <table>
 <tr>
 <td><img src="screenshots/screen1.jpg" width="200" alt="Экран 1"/></td>
-<td><img src="screenshots/sscreen2.jpg" width="200" alt="Экран 2"/></td>
-<td><img src="screenshots/sscreen3.jpg" width="200" alt="Экран 3"/></td>
-<td><img src="screenshots/sscreen4.jpg" width="200" alt="Экран 1"/></td>
-<td><img src="screenshots/screen5.jpg" width="200" alt="Экран 2"/></td>
+<td><img src="screenshots/screen2.jpg" width="200" alt="Экран 2"/></td>
+<td><img src="screenshots/screen3.jpg" width="200" alt="Экран 3"/></td>
+</tr>
+<tr>
+<td><img src="screenshots/screen4.jpg" width="200" alt="Экран 4"/></td>
+<td><img src="screenshots/screen5.jpg" width="200" alt="Экран 5"/></td>
 </tr>
 </table>
 </div>
