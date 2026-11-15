@@ -109,3 +109,6 @@ HTML5 Canvas • JavaScript • CSS3 • Capacitor/Cordova (для сборки 
 ## 👨‍💻 Автор / Author
 **Сергей (Paminabea)**  
 GitHub: [@Paminabea](https://github.com/Paminabea) | Email: paminabea@gmail.com
+
+## 📄 Лицензия / License
+Apache-2.0 license — см. файл [LICENSE](LICENSE)
